@@ -1,5 +1,5 @@
 # BMI_Calculator
 
 <p>
-    <img src="/BMI_Calculator/screenshot.jpg"/>
+    <img src="/görsel/screenshot.jpg"/>
 </p>
