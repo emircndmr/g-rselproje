@@ -1,4 +1,4 @@
-# BMI_Calculator
+# görselproje
 
 <p>
     <img src="/görsel/screenshot.jpg"/>
